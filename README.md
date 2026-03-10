@@ -1,10 +1,13 @@
-# GenAI Learning Repository
+# 📟 GenAI Learning Repository
 
-![Generative AI](https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/repo-thumbnails/home.png)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9bd56f1c-cf24-4fda-ae43-c7b07b1cd1aa" width="512"/>
+</div>
+
 
 A comprehensive collection of learning materials and practical implementations for Generative AI and Large Language Models.
 
----
+
 
 ## Contents
 
@@ -27,22 +30,22 @@ A comprehensive collection of learning materials and practical implementations f
 - **Ollama**: Local LLM setup and usage guide - [View Guide](Ollama/ollama.md)
 - **Embeddings**: Token embeddings implementation - [View Notebook](Embedings/Token-Embeddings.ipynb)
 
----
+
 
 ## Topics Covered
 
-📌 Fundamentals of Generative AI and LLMs
-📌 Deep learning architecture (Transformers, Attention mechanisms)
-📌 Vector databases and semantic search
-📌 Retrieval Augmented Generation (RAG) patterns
-📌 Prompt engineering techniques
-📌 Model training and fine-tuning
-📌 Evaluation metrics and benchmarks
-📌 Production deployment strategies
-📌 Local LLM deployment with Ollama
+- Fundamentals of Generative AI and LLMs 
+- Deep learning architecture (Transformers, Attention mechanisms)
+- Vector databases and semantic search
+- Retrieval Augmented Generation (RAG) patterns
+- Prompt engineering techniques
+- Model training and fine-tuning
+- Evaluation metrics and benchmarks
+- Production deployment strategies
+- Local LLM deployment with Ollama
 
 
----
+
 
 ## Structure
 
@@ -52,7 +55,7 @@ Each module is self-contained with:
 - Visual diagrams and illustrations
 - Key takeaways and best practices
 
----
+
 
 ## Prerequisites
 
@@ -60,13 +63,13 @@ Each module is self-contained with:
 - Familiarity with machine learning concepts (helpful but not required)
 - For practical notebooks: Jupyter environment and required Python packages
 
----
+
 
 ## Contributing
 
 This repository is a living collection of GenAI learning materials. Feel free to suggest improvements or additions.
 
----
+
 
 ## Connect with Me
 
